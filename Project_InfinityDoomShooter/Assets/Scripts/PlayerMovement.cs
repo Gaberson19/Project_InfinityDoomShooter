@@ -82,6 +82,29 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
+    void PlayerPressCombo()
+    {
+        if (Input.GetButton("Fire1"))
+        {
+
+        }
+
+        if (Input.GetButton("Fire2"))
+        {
+
+        }
+
+        if (Input.GetButton("Fire3"))
+        {
+
+        }
+
+        if (Input.GetButton("Fire4"))
+        {
+
+        }
+    }
+
     void PlayerPressRestart()
     {
         if (Input.GetButton("Restart"))
