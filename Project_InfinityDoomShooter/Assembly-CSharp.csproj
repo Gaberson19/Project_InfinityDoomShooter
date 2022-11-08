@@ -643,6 +643,18 @@
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Users/Win 10/OneDrive/Documents/GitHub/Project_InfinityDoomShooter/Project_InfinityDoomShooter/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.ProBuilder">
+ <HintPath>C:/Users/Win 10/OneDrive/Documents/GitHub/Project_InfinityDoomShooter/Project_InfinityDoomShooter/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.Editor">
+ <HintPath>C:/Users/Win 10/OneDrive/Documents/GitHub/Project_InfinityDoomShooter/Project_InfinityDoomShooter/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+ <HintPath>C:/Users/Win 10/OneDrive/Documents/GitHub/Project_InfinityDoomShooter/Project_InfinityDoomShooter/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AddOns.Editor">
+ <HintPath>C:/Users/Win 10/OneDrive/Documents/GitHub/Project_InfinityDoomShooter/Project_InfinityDoomShooter/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
