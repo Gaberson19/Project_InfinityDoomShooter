@@ -65,9 +65,9 @@
     <Compile Include="Assets\Scripts\Animations\AnimateCoin.cs" />
     <Compile Include="Assets\Scripts\Collectible.cs" />
     <Compile Include="Assets\Scripts\Gameplay\Gameplay.cs" />
+    <Compile Include="Assets\Scripts\Gameplay\PlayerComboSystem.cs" />
     <Compile Include="Assets\Scripts\Gameplay\UI.cs" />
     <Compile Include="Assets\Scripts\PlayerCollider.cs" />
-    <Compile Include="Assets\Scripts\PlayerComboSystem.cs" />
     <Compile Include="Assets\Scripts\PlayerJump.cs" />
     <Compile Include="Assets\Scripts\PlayerMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />

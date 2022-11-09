@@ -86,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetButton("Fire1"))
         {
-
+            
         }
 
         if (Input.GetButton("Fire2"))
