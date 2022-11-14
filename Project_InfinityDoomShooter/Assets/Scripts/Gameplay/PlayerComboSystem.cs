@@ -6,7 +6,7 @@ public class PlayerComboSystem : MonoBehaviour
 {
     public static PlayerComboSystem Instance { get; private set; }
 
-    [SerializeField] List<int> combo = new List<int>() { 0, 0, 0 };
+    [SerializeField] List<int> combo = new List<int>() { 1, 1, 1 };
 
     private void Awake()
     {
@@ -36,12 +36,13 @@ public class PlayerComboSystem : MonoBehaviour
         }
 
         combo.Add(skillAdd);
+        skillCast();
     }
 
     //Empty's the combo when hit
     void EmptyCombo()
     {
-        combo = new List<int> {0, 0, 0};
+        combo = new List<int> {1, 1, 1};
     }
 
     void skillCast()
